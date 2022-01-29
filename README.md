@@ -33,7 +33,7 @@ Saturday     80 commits     █████░░░░░░░░░░░░�
 Sunday       88 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0%
 
 ```
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- YouTube stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
