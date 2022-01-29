@@ -116,6 +116,19 @@ Sunday       88 commits     ██████░░░░░░░░░░░�
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
     <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
+      <a href="#"><img alt="" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript"></a>
+  <a href="#"><img alt="" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"></a>
+  <a href="#"><img alt="" src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis"></a>
+  <a href="#"><img alt="" src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch"></a>
+  <a href="#"><img alt="" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql"></a>
+  <a href="#"><img alt="" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql"></a>
+  <a href="#"><img alt="" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql"></a>
+  <a href="#"><img alt="" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"></a>
+  <a href="#"><img alt="" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"></a>
+  <a href="#"><img alt="" src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"></a>
+  <a href="#"><img alt="" src="https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean"></a>
+  <a href="#"><img alt="" src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws"></a>
+  <a href="#"><img alt="" src="https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure"></a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
