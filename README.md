@@ -8,8 +8,23 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="left"> <a href="https://www.facebook.com/ushia.rhine/" target="blank"><img src="https://img.shields.io/badge/Facebook-Contact%20me-blue" alt="Rhine" /></a> <a href="https://drive.google.com/file/d/18KGEU9X_gA7iDkQ-ph6kTERiptBQlkA8/view?usp=sharing" target="blank"><img src="https://img.shields.io/badge/Resume-ViewInDrive-brightgreen" alt="Rhine" /></a> </p>
 
+- 🔭 I’m currently NFT & Blockchain. Basically integrating ethereum Blockchain with React js , Next Js , Unity 3D & Unreal Games.
+- 🌱 I’m currently learning deep learning and Natural Language Processing.
+- 👯 I’m looking to collaborate on Blockchain projects and Game Development Projects.
+- 🤔 I’m looking for help with my Game Development Projects.
+- 💬 Ask me about Game and Web Development. From Unreal Engine, Unity 3D to Reactjs, NextJs, Vue js, Laravel, Django.
+- 📫 How to reach me: hemrajdhakal.ml@gmail.com
+- ⚡ Fun fact: I am an IDIOT😀😅
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/rhineul-islam-737200180/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rhine" /></a>
+<a href="mailto:rhine.cse@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Rhine" /></a></p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
@@ -33,6 +48,7 @@ Saturday     80 commits     █████░░░░░░░░░░░░�
 Sunday       88 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0%
 
 ```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
@@ -143,4 +159,4 @@ Sunday       88 commits     ██████░░░░░░░░░░░�
 </p>
 
 
-
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
