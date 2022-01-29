@@ -17,7 +17,7 @@
 - 👯 I’m looking to collaborate on Blockchain projects and Game Development Projects.
 - 🤔 I’m looking for help with my Game Development Projects.
 - 💬 Ask me about Game and Web Development. From Unreal Engine, Unity 3D to Reactjs, NextJs, Vue js, Laravel, Django.
-- 📫 How to reach me: hemrajdhakal.ml@gmail.com
+- 📫 How to reach me: rhine.cse@gmail.com
 - ⚡ Fun fact: I am an IDIOT😀😅
 <h3 align="left">Connect with me:</h3>
 <p align="left">
