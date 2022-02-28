@@ -58,7 +58,7 @@ Saturday     80 commits     █████░░░░░░░░░░░░�
 Sunday       88 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0%
 
 ```
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://giphy.com/embed/vLpclx5lofmqnEswm0" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/KeepCoding-developer-dev-programmer-vLpclx5lofmqnEswm0">
 <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
