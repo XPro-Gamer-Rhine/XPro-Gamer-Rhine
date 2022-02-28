@@ -59,7 +59,7 @@ Sunday       88 commits     ██████░░░░░░░░░░░�
 
 ```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+<img align="right" alt="GIF" src="https://giphy.com/embed/vLpclx5lofmqnEswm0" />
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- YouTube stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
