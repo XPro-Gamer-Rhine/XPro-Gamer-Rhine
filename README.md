@@ -11,10 +11,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="left"> <a href="https://www.facebook.com/ushia.rhine/" target="blank"><img src="https://img.shields.io/badge/Facebook-Contact%20me-blue" alt="Rhine" /></a> <a href="https://drive.google.com/file/d/18KGEU9X_gA7iDkQ-ph6kTERiptBQlkA8/view?usp=sharing" target="blank"><img src="https://img.shields.io/badge/Resume-ViewInDrive-brightgreen" alt="Rhine" /></a> </p>
 
-- 🔭 I’m currently NFT & Blockchain. Basically integrating ethereum Blockchain with React js , Next Js , Unity 3D & Unreal Games.
-- 🌱 I’m currently learning deep learning and Natural Language Processing.
+- 🔭 I’m currently working on NFT & Blockchain. Basically integrating ethereum Blockchain with React js , Next Js , Unity 3D.
+- 🌱 I’m currently learning what ever interests me.
 - 👯 I’m looking to collaborate on Blockchain projects and Game Development Projects.
-- 🤔 I’m looking for help with my Game Development Projects.
+- 🤔 I’m looking for help with my Game Development Projects and with my lagging in general.
 - 💬 Ask me about Game and Web Development. From Unreal Engine, Unity 3D to Reactjs, NextJs, Vue js, Laravel, Django.
 - 📫 How to reach me: rhine.cse@gmail.com
 - ⚡ Fun fact: I am an IDIOT😀😅
@@ -40,22 +40,22 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    52 commits     ██████████████████░░░░░░░   60.17% 
-🌆 Daytime    110 commits    ██████████████░░░░░░░░░░░   29.97% 
-🌃 Evening    174 commits    ████░░░░░░░░░░░░░░░░░░░░░   11.41% 
-🌙 Night      31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   5.45%
+🌞 Morning    5 commits     ██████████████████░░░░░░░   60.17% 
+🌆 Daytime    1  commits    ██████████████░░░░░░░░░░░   29.97% 
+🌃 Evening    7  commits    ████░░░░░░░░░░░░░░░░░░░░░   11.41% 
+🌙 Night      3 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   5.45%
 
 ```
 **I'm Most Productive on Sunday** 📅 
 
 ```text
-Monday       57 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.19% 
-Tuesday      22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-Wednesday    51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
-Thursday     22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-Friday       32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Saturday     80 commits     █████░░░░░░░░░░░░░░░░░░░░   22.73% 
-Sunday       88 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0%
+Monday       7 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.19% 
+Tuesday      2 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+Wednesday    5 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
+Thursday     2 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+Friday       2 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+Saturday     8 commits     █████░░░░░░░░░░░░░░░░░░░░   22.73% 
+Sunday       8 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0%
 
 ```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
